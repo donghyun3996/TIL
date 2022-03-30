@@ -8,3 +8,8 @@
 ### RXswift란?
 + ReactiveX를 도입한 Swift 개발을 위한 Base가 되는 라이브러리
 
+<br>
+
+### RXswift를 쓰는이유
+1. 비동기를 동기화 된 것인양 작성할 수 있다.
+
