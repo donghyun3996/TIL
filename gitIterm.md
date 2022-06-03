@@ -1,4 +1,4 @@
-# 명령어 모음
+# git 터미널 명령어 모음
 git --version : 깃 버전 확인<br>
 git config --global init.defaultBranch main : 깃 설치 후 최초 1회만 실행(대충 오류 방지)<br>
 git config --global user.name "이름" : 유저네임 세팅<br>
